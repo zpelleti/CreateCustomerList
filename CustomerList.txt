@@ -1,0 +1,5 @@
+100		allie		KP		100.0		
+200		Mario		P		100000.0		
+300		Sora		KP		10.0		
+400		raffi		kp		3000.0		
+500		Mike		G		900.0		
